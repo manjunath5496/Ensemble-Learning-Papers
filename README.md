@@ -23,7 +23,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Ensemble-Learning-Papers/blob/master/enl(10).pdf" style="text-decoration:none;">Isolation Forest</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Ensemble-Learning-Papers/blob/master/enl(11).pdf" style="text-decoration:none;">Clusterer Ensemble</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Ensemble-Learning-Papers/blob/master/enl(12).pdf" style="text-decoration:none;">Popular Ensemble Methods: An Empirical Study</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Ensemble-Learning-Papers/blob/master/enl(13).pdf" style="text-decoration:none;">Cluster Ensembles { A Knowledge Reuse Framework for Combining Multiple Partitions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Ensemble-Learning-Papers/blob/master/enl(13).pdf" style="text-decoration:none;">Cluster Ensembles &minus; A Knowledge Reuse Framework for Combining Multiple Partitions</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Ensemble-Learning-Papers/blob/master/enl(14).pdf" style="text-decoration:none;">Ensembles for Unsupervised Outlier Detection: Challenges and Research Questions</a></li>
     
